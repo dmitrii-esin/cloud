@@ -54,6 +54,12 @@ V
 
 ***
 
+## First thing to start working with AWS
+1. Root account -> IAM user -> roleas and groups
+2. Create billing alerts on billing page and CloudWatch
+
+***
+
 ## what is a cloud
 types of arch (monolith, microservices)\
 types of services (On-premise, IAAS, PAAS, SAAS)\
